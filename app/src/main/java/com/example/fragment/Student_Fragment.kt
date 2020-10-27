@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import java.util.Observer
 
-class Fragment : Fragment() {
+class Student_Fragment : Fragment() {
     private lateinit var studentRecyclerView: RecyclerView
      private var adapter: studentAdapter? = null
 
